@@ -16,10 +16,5 @@ namespace YI
         {
             InitializeComponent();
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            //465456465456465456
-        }
     }
 }
